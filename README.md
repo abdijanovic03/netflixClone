@@ -1,0 +1,2 @@
+# netflixClone
+Practise nextjs app
