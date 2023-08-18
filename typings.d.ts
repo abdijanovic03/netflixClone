@@ -2,7 +2,7 @@ export interface Genre {
   id: number
   name: string
 }
-
+//test commit 
 export interface Movie {
   title: string
   backdrop_path: string
